@@ -1,0 +1,54 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "code": "BTX",
+      "name": "비트코인(BTX)",
+      "totalPrice": "36000",
+      "currentPrice": "12000",
+      "amount": 0.23,
+      "datetime": "03/05/2019, 08:23:22"
+    },
+    {
+      "id": 2,
+      "code": "RXP",
+      "name": "리플(RXP)",
+      "totalPrice": "60000",
+      "currentPrice": "20000",
+      "amount": 10,
+      "datetime": "18/04/2020, 07:23:22"
+    },
+    {
+      "currentPrice": "25000",
+      "amount": "2",
+      "name": "두잇코인",
+      "datetime": "20/01/2022, 07:23:22",
+      "totalPrice": 50000,
+      "id": 3
+    },
+    {
+      "currentPrice": "25000",
+      "amount": "2",
+      "name": "두잇코인",
+      "datetime": "05/01/2023, 17:49:00",
+      "totalPrice": 50000,
+      "id": 4
+    },
+    {
+      "currentPrice": "4216000",
+      "amount": "2",
+      "name": "비트코인",
+      "datetime": "09/01/2023, 14:36:16",
+      "totalPrice": 8432000,
+      "id": 5
+    },
+    {
+      "currentPrice": "25000",
+      "amount": "2",
+      "name": "두잇코인",
+      "datetime": "09/01/2023, 14:36:40",
+      "totalPrice": 50000,
+      "id": 6
+    }
+  ]
+}
